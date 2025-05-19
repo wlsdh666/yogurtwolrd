@@ -1343,5 +1343,12 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     footer .up-footer .family .family-title {
         font-size:0.8rem;
     }
-}
+    header nav .sub > li > a:after {
+        content:"";
+        position:absolute;
+        border-radius: 50%; 
+    }
+    header nav .sub li a:hover:after {
+        left:40px;
+    }
 }
