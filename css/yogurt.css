@@ -1064,6 +1064,7 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     }
     header nav .sub > li > a {
         padding:0.3rem;
+        padding-left:1rem;
     }
     header nav .sub2 {
         left:20%;
