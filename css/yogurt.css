@@ -1193,6 +1193,7 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     }
     .s3 .banner ul li:last-child  {
         background-image: url(../img/swiper-slide/mobile-point3.png);
+        margin-top:10px;
     }
     .s3 .banner ul li:first-child:hover {
         background-image: url(../img/swiper-slide/mobile-point1-hover.png);
