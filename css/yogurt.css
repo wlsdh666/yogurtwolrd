@@ -1271,6 +1271,7 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     .s4 .swiper .swiper-slide .rect {
         height:5.7rem; width:7rem;
         top:1.4rem;
+        display:none;
     }
     .s4 .swiper .swiper-slide .rect i {
         top:0.4rem; width:1rem; right:0.7rem;
@@ -1321,8 +1322,12 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
         margin:0 auto;
         margin-bottom:2rem;
     }
+    footer .up-footer .info ul li a {
+        font-size:0.7rem;
+    }
     footer .up-footer address {
         text-align:center;
+        font-size:0.7rem;
     }
     footer .up-footer .family {
         margin:0 auto;
@@ -1333,5 +1338,10 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     }
     footer .down-footer {
         padding-top:2rem;
+        font-size:0.7rem;
     }
+    footer .up-footer .family .family-title {
+        font-size:0.8rem;
+    }
+}
 }
