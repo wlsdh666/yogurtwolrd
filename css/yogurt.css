@@ -1176,7 +1176,7 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
     .s3 .banner {padding-top:1rem;}
     .s3 .banner ul {
         flex-flow:row wrap;
-        gap:0.5rem;
+        justify-content:space-between;
     }
     .s3 .banner ul li {
         width:48%; height:20vh;
