@@ -1350,6 +1350,6 @@ footer .up-footer .sns ul li:nth-child(3) svg path {
         border-radius: 50%; 
     }
     header nav .sub li a:hover:after {
-        left:40px;
+        left:0px;
     }
 }
